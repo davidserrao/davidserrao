@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Serrao</h1>
 <h3 align="center">A student at Georgia Tech interested in full-stack development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidserrao&label=Profile%20views&color=0e75b6&style=flat" alt="davidserrao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidserrao" alt="davidserrao" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
