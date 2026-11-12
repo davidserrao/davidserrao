@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm David Serrao</h1>
-<h3 align="center">A student at Georgia Tech interested in full-stack development. <img src="https://fanapeel.com/wp-content/uploads/logo_-georgia-tech-yellow-jackets-buzz.png" alt="html5" width="40" height="40"/></h3>
 
 
 
